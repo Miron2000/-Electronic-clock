@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient( 225deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 37px -37px, linear-gradient(135deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 37px 111px, linear-gradient(135deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 37px 37px, linear-gradient(225deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 37px 37px, linear-gradient(135deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 74px 0px, linear-gradient(225deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 74px 0px, linear-gradient(135deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 74px 74px, linear-gradient(225deg, transparent 24.5%, #449cb4 24.6%, transparent 24.8%) 74px 74px;
+    background-size: 148px 148px;
+    background-color: #e8f4f2;
+}
+
+.all {
+    margin: 190px auto;
+    width: 500px;
+    height: 210px;
+    text-align: center;
+    background: #2e2e2e;
+    border-radius: 20px;
+    box-shadow: 2px 3px 1px #1c1c1c, -1px -2px 1px #1c1c1c, 2px -2px 1px #1c1c1c, 4px -4px 2px #1c1c1c, 6px -6px 2px #1c1c1c, 8px -8px 2px #1c1c1c, 10px -10px 2px #1c1c1c, 12px -12px 2px #1c1c1c, 14px -14px 0px #1c1c1c;
+}
+
+#clock {
+    font-size: 4rem;
+    margin: 0px auto 20px auto;
+    width: 420px;
+    height: 100px;
+    line-height: 100px;
+    color: #9d93d3;
+    background: linear-gradient( to bottom, #231381, #201276, #1d0f72, #180b5f, #10064a, #180b5f, #1d0f72, #201276, #231381);
+    box-shadow: 2px 3px 10px #1c1c1c, -1px -2px 10px #1c1c1c;
+    border-radius: 10px;
+}
